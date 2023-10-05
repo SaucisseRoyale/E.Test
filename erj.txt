@@ -1,0 +1,5 @@
+GIT
+source control= machine a voyager dans le temps. Permet de revenir en arrière, aux sources. 
+Multivers: composé d'univers sir lesquels on va travailler
+
+GIT: outils qui permet de modifier ces univers, morceaux de projets.
